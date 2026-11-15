@@ -1,4 +1,4 @@
-# testrepo
+# testrepo (GitHub) by COURSERA
 
 ## Editing the file
 
